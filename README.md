@@ -1,12 +1,74 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+```markdown
+# MetaBody — The Works Gym Website
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+A sleek React-based fitness website showcasing workout programs, trainer profiles, and membership details.
 
-## Expanding the ESLint configuration
+🎬 **Live Demo:** [https://worksgym.netlify.app/](https://worksgym.netlify.app/)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+## 🚀 Features
+
+- **Responsive Hero Section** with strong call-to-action buttons ("Join Now", "About Us").  
+- **Workout Programs Overview** — Strength Training, Cardio, Fat Burning, Health Fitness.  
+- **Why Choose Us Section** — expert coaches, personalized plans, and affordable pricing.  
+- **Plans & Pricing Cards** — Basic, Premium, and Pro packages.  
+- **Testimonial Section** to build credibility.  
+- **Seamless navigation** and polished UI/UX.  
+
+---
+
+## 🛠 Tech Stack
+
+- **Frontend:** React (Vite setup)  
+- **Deployment:** Netlify  
+
+---
+
+
+---
+
+## 💻 Local Setup
+
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/shivdipsadar/MetaBody.git
+   cd MetaBody
+````
+
+2. Install dependencies:
+
+   ```bash
+   npm install
+   ```
+
+3. Start the development server:
+
+   ```bash
+   npm run dev
+   ```
+
+4. Visit:
+
+   ```
+   http://localhost:5173
+   ```
+
+   (or the default React port)
+
+---
+
+## 🔮 Future Enhancements
+
+* Add a **demo video walkthrough** or animated GIF in README.
+* Optimize images and performance for faster load speeds.
+* Add a **contact form** or subscription feature.
+* Improve accessibility & SEO with meta tags.
+
+
+## 📄 License
+
+This project is open-source under the **MIT License**.
+See the [LICENSE](LICENSE) file for details.
+
