@@ -1,6 +1,6 @@
 
 
-```markdown
+
 # MetaBody — The Works Gym Website
 
 A sleek React-based fitness website showcasing workout programs, trainer profiles, and membership details.
@@ -35,7 +35,7 @@ A sleek React-based fitness website showcasing workout programs, trainer profile
    ```bash
    git clone https://github.com/shivdipsadar/MetaBody.git
    cd MetaBody
-````
+   ```
 
 2. Install dependencies:
 
@@ -57,18 +57,6 @@ A sleek React-based fitness website showcasing workout programs, trainer profile
 
    (or the default React port)
 
----
-
-## 🔮 Future Enhancements
-
-* Add a **demo video walkthrough** or animated GIF in README.
-* Optimize images and performance for faster load speeds.
-* Add a **contact form** or subscription feature.
-* Improve accessibility & SEO with meta tags.
 
 
-## 📄 License
-
-This project is open-source under the **MIT License**.
-See the [LICENSE](LICENSE) file for details.
 
